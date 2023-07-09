@@ -12,10 +12,10 @@
     "url": "git+https://github.com/AndreiGutnik/goit-js-hw-09.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Andrii Hutnyk <hutnyk2019@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/AndreiGutnik/goit-js-hw-09/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
